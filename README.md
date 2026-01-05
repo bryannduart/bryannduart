@@ -67,9 +67,13 @@ Explore my repositories for more tools, scripts, and cool experiments!
 <hr style="border: 1px solid #30363d;">
 
 ## ☕ Fun Facts / Personal Notes
-- ☕ Coffee lover and code fueled by caffeine  
-- 🤓 Always ready to explore new tools and puzzles  
-- 🎸 (Optional) Hobbies, music, games, etc.
+- ☕ Coffee lover (for obvious reasons!)
+- 🎮​ I love playing video games, they've been a part of my life since I was a kid.
+- 🐍 Python is my favorite programming language right now.
+- 🪐 When I'm not programming, you'll find me playing games, exploring new musics or creating good times with my friends.
+- 🎶​​ I love listening and appreciating music, and I enjoy programming with a good soundtrack.
+- 🌍 My dream is to work in backend development, making the digital world increasingly accessible to everyone.
+- 🤝 Always open to collaboration, mentorship, and new opportunities!
 
 <p align="center">
   <img
@@ -77,4 +81,3 @@ Explore my repositories for more tools, scripts, and cool experiments!
     alt="Footer Banner"
   />
 </p>
-
