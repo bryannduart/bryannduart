@@ -78,7 +78,7 @@ Explore my repositories for more tools, scripts, and cool experiments!
 <hr style="border: 1px solid #30363d;">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Let's+connect+and+build+something+awesome;Thanks+for+stopping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Let's+connect+and+build+something+awesome!;Thanks+for+stopping+:)" />
 </p>
 
 <p align="center">
