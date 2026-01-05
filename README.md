@@ -1,3 +1,27 @@
+<!-- Animated Header -->
+<div align="center" style="
+  width: 100%;
+  padding: 40px 0;
+  background: linear-gradient(270deg, #0f0f0f, #1a1a1a, #0f0f0f);
+  background-size: 600% 600%;
+  animation: gradientMove 10s ease infinite;
+  border-radius: 12px;
+">
+  <h1 style="color: white; margin: 0;">Bryan Duarte</h1>
+  <p style="color: #b3b3b3; margin-top: 10px;">
+    Software Developer Student | Lifelong Learner
+  </p>
+</div>
+
+<style>
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
+<!-- Animated Header -->
+
 <h1 align="center">👋 Hi, I'm Bryan</h1>
 
 <p align="center">
