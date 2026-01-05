@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Bryan</h1>
 
-<!--
-**bryannduart/bryannduart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Student | 💻 Software Developer in progress | 🎮 Tech Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 Currently studying programming and technology
+- 🧩 I enjoy learning by building real projects
+- 🔥 Always looking to improve my skills and grow as a developer
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github" />
+</div>
+
+---
+
+## 📌 Featured Projects
+🔹 Projects coming soon  
+🔹 Studies, exercises, and practical applications
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bryannduart&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryannduart&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Contact
+- 💼 GitHub: https://github.com/bryannduart
+
