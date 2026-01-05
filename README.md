@@ -60,8 +60,8 @@ Explore my repositories for more tools, scripts, and cool experiments!
 
 <div align="center">
   <a href="https://github.com/bryannduart">GitHub</a> •
-  <a href="https://www.linkedin.com/in/[your-linkedin]">LinkedIn</a> •
-  <a href="mailto:[bryan.duarte2516@gmail.com]">Email</a>
+  <a href="https://www.linkedin.com/in/bryan-duarte-2611493a5">LinkedIn</a> •
+  <a href="mailto:bryan.duarte2516@gmail.com">Email</a>
 </div>
 
 <hr style="border: 1px solid #30363d;">
