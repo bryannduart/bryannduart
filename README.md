@@ -50,7 +50,10 @@ Explore my repositories for more tools, scripts, and cool experiments!
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryannduart&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryannduart&theme=transparent" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryannduart&theme=transparent" />
 </p>
 
 <hr style="border: 1px solid #30363d;">
