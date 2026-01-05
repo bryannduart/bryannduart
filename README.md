@@ -75,6 +75,25 @@ Explore my repositories for more tools, scripts, and cool experiments!
 - 🌍 My dream is to work in backend development, making the digital world increasingly accessible to everyone.
 - 🤝 Always open to collaboration, mentorship, and new opportunities!
 
+<hr style="border: 1px solid #30363d;">
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&size=26
+&duration=3000
+&pause=1200
+&color=FFFFFF
+&center=true
+&vCenter=true
+&width=600
+&lines=Welcome+to+my+GitHub!;
+Let's+connect+and+build+something+awesome+🚀;
+Thanks+for+stopping+👋🏻"
+  />
+</p>
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=footer&text=&fontColor=ffffff&animation=fadeIn"
