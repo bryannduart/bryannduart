@@ -58,7 +58,7 @@ Explore my repositories for more tools, scripts, and cool experiments!
 
 ## 📫 Where to Find Me
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/bryannduart" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
