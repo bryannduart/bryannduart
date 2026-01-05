@@ -58,11 +58,19 @@ Explore my repositories for more tools, scripts, and cool experiments!
 
 ## 📫 Where to Find Me
 
-<div align="center">
-  <a href="https://github.com/bryannduart">GitHub</a> •
-  <a href="https://www.linkedin.com/in/bryan-duarte-2611493a5">LinkedIn</a> •
-  <a href="mailto:bryan.duarte2516@gmail.com">Email</a>
-</div>
+<p align="center">
+  <a href="https://github.com/bryannduart" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/bryan-duarte-2611493a5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:bryan.duarte2516@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <hr style="border: 1px solid #30363d;">
 
