@@ -79,7 +79,7 @@ Explore my repositories for more tools, scripts, and cool experiments!
     <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/bryan-duarte-2611493a5" target="_blank">
+  <a href="https://www.linkedin.com/in/bryan-d-araujo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
