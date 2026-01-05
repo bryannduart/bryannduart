@@ -1,6 +1,8 @@
-<!-- Banner GIF (exemplo, você pode trocar pelo seu) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="animated banner" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:1a1a1a,100:0b0b0b&height=180&section=header&text=Bryan%20Duarte&fontColor=ffffff&fontSize=45&animation=fadeIn" 
+    alt="Bryan Duarte Banner"
+  />
 </p>
 
 <h1 align="center">Bryan Duarte</h1>
@@ -34,8 +36,8 @@ I am a student passionate about software engineering, always eager to learn, bui
 
 ## 🚀 Featured Projects
 
-* Projects organized here soon* 
-* For now, you can find studies, exercises, and practical applications that I learn during my time at university.* 
+* Projects organized here soon
+* For now, you can find studies, exercises, and practical applications that I learn during my time at university.
 
 Explore my repositories for more tools, scripts, and cool experiments!
 
