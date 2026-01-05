@@ -13,36 +13,29 @@
 ## 👋 Hey there, I’m Bryan!
 
 Welcome to my GitHub profile!  
-I’m a passionate software development student with an eagerness to learn, build, and grow in the world of technology.
+I am a student passionate about software engineering, always eager to learn, build, and unravel mysteries. My journey in the technology field began with my love for computing and my curiosity about solving problems and the many ways we can solve them, which led me to explore the fascinating world of programming.
 
-Here’s a bit about me:
-
-- 💻 **Software Development:** I enjoy building real applications and learning best practices.  
-- 🐧 **Linux Enthusiast:** Command line user and setup tweaker!  
-- 🔐 **Security Curious:** Exploring ethical hacking and secure coding fundamentals.  
-- 📚 **Lifelong Learner:** Constantly learning new technologies, frameworks, and tools.
+- 💻 **Software Development:** I enjoy building real applications and learning best practices.    
+- 🌱 **Continuous Learner:** I believe in lifelong learning and am constantly exploring new technologies, frameworks, and best practices.
 
 <hr style="border: 1px solid #30363d;">
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github" />
 </div>
 
 - **Languages:** Python, JavaScript, HTML, CSS  
-- **Tools:** Git, Linux, VS Code  
-- **Interests:** Web Dev, Automation, System Security
+- **Tools:** Git, VS Code  
+- **Interests:** Web Dev, Software Engineering, Game Dev, AI
 
 <hr style="border: 1px solid #30363d;">
 
 ## 🚀 Featured Projects
 
-### 📌 [Project Name 1]
-Short description of what it does and why it's cool.
-
-### 📌 [Project Name 2]
-Short description of what it does and why it’s useful.
+* Projects organized here soon* 
+* For now, you can find studies, exercises, and practical applications that I learn during my time at university.* 
 
 Explore my repositories for more tools, scripts, and cool experiments!
 
@@ -50,8 +43,7 @@ Explore my repositories for more tools, scripts, and cool experiments!
 
 ## 🎓 Education & Certifications
 
-- 🎓 **BSc in Software Engineering — [Your University] (in progress)**  
-- 🏅 Certifications (if any): [Your Certifications]
+- 🎓 **BSc in Software Engineering — [University of Vassouras] (in progress)**  
 
 <hr style="border: 1px solid #30363d;">
 
@@ -69,7 +61,7 @@ Explore my repositories for more tools, scripts, and cool experiments!
 <div align="center">
   <a href="https://github.com/bryannduart">GitHub</a> •
   <a href="https://www.linkedin.com/in/[your-linkedin]">LinkedIn</a> •
-  <a href="mailto:[your-email]">Email</a>
+  <a href="mailto:[bryan.duarte2516@gmail.com]">Email</a>
 </div>
 
 <hr style="border: 1px solid #30363d;">
