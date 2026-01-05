@@ -71,4 +71,10 @@ Explore my repositories for more tools, scripts, and cool experiments!
 - 🤓 Always ready to explore new tools and puzzles  
 - 🎸 (Optional) Hobbies, music, games, etc.
 
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=footer&text=&fontColor=ffffff&animation=fadeIn"
+    alt="Footer Banner"
+  />
+</p>
 
