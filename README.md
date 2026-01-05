@@ -1,11 +1,9 @@
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0b,50:1a1a1a,100:0b0b0b&height=180&section=header&text=Bryan%20Duarte&fontColor=ffffff&fontSize=45&animation=fadeIn" 
-    alt="Bryan Duarte Banner"
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=180&section=header&text=Bryan%20Duarte&fontColor=ffffff&fontSize=48&animation=fadeIn"
+    alt="Bryan Duarte banner"
   />
 </p>
-
-<h1 align="center">Bryan Duarte</h1>
 <p align="center">
   Software Engineering Student | Lifelong Learner | 🚀 Tech Enthusiast
 </p>
