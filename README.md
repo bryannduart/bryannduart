@@ -47,14 +47,28 @@ Explore my repositories for more tools, scripts, and cool experiments!
 
 <hr style="border: 1px solid #30363d;">
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryannduart&theme=transparent" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:000000&section=header" />
 </p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryannduart&theme=transparent" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryannduart&theme=transparent" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryannduart&theme=transparent" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:000000&section=footer" />
 </p>
+
+
 
 <hr style="border: 1px solid #30363d;">
 
