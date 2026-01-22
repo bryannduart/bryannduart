@@ -50,8 +50,8 @@ A mobile application developed with **React Native (Expo)** focused on **offline
 
 ---
 
-*Projects organized here soon*  
-*For now, you can find studies, exercises, and practical applications that I learn during my time at university.*
+*More projects organized here soon.*  
+*For now, you can also find studies, exercises, and practical applications that I learned during my time at university..*
 
 
 <hr style="border: 1px solid #30363d;">
