@@ -63,7 +63,7 @@ A mobile application developed with **React Native (Expo)** focused on **offline
 
 <hr style="border: 1px solid #30363d;">
 
-## 📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:000000&section=header" />
@@ -72,10 +72,10 @@ A mobile application developed with **React Native (Expo)** focused on **offline
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryannduart&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryannduart&theme=transparent&v=2" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryannduart&theme=transparent" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bryannduart&theme=transparent&v=2" />
     </td>
   </tr>
 </table>
@@ -83,7 +83,6 @@ A mobile application developed with **React Native (Expo)** focused on **offline
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:000000&section=footer" />
 </p>
-
 
 
 <hr style="border: 1px solid #30363d;">
