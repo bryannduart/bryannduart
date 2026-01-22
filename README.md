@@ -34,10 +34,25 @@ I am a student passionate about software engineering, always eager to learn, bui
 
 ## 🚀 Featured Projects
 
-* Projects organized here soon
-* For now, you can find studies, exercises, and practical applications that I learn during my time at university.
+### 📱 Sistema de Denúncias — React Native + SQLite (Offline-First)
 
-Explore my repositories for more tools, scripts, and cool experiments!
+A mobile application developed with **React Native (Expo)** focused on **offline-first data persistence**, form validations, and clean architecture.
+
+**Main highlights:**
+- Offline-first app using **SQLite local storage**
+- Complete **CRUD** (Create, Read, Delete)
+- Real-world **form validations** (CPF, CEP, age, name)
+- Organized project structure
+- Tested on real mobile device via **Expo Go**
+
+🔗 **Repository:**  
+👉 [denuncias-react-native](https://github.com/bryannduart/denuncias-react-native)
+
+---
+
+*Projects organized here soon*  
+*For now, you can find studies, exercises, and practical applications that I learn during my time at university.*
+
 
 <hr style="border: 1px solid #30363d;">
 
