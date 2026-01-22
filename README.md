@@ -23,12 +23,15 @@ I am a student passionate about software engineering, always eager to learn, bui
 ## 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,sqlite" />
 </div>
 
 - **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** React Native, Expo  
+- **Databases:** SQLite  
 - **Tools:** Git, GitHub, VS Code  
-- **Interests:** Web Dev, Software Engineering, Game Dev, AI
+- **Interests:** Mobile Development, Software Engineering, Backend Development
+
 
 <hr style="border: 1px solid #30363d;">
 
