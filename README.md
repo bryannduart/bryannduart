@@ -53,9 +53,7 @@ A mobile application developed with **React Native (Expo)** focused on **offline
 
 ---
 
-*More projects organized here soon.*  
-*For now, you can also find studies, exercises, and practical applications that I learned during my time at university..*
-
+*More projects coming soon — stay tuned!*
 
 <hr style="border: 1px solid #30363d;">
 
