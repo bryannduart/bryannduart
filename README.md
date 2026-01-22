@@ -65,10 +65,6 @@ A mobile application developed with **React Native (Expo)** focused on **offline
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:000000&section=header" />
-</p>
-
 <table align="center">
   <tr>
     <td>
@@ -79,11 +75,6 @@ A mobile application developed with **React Native (Expo)** focused on **offline
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:111111,100:000000&section=footer" />
-</p>
-
 
 <hr style="border: 1px solid #30363d;">
 
