@@ -23,29 +23,33 @@ I am a student passionate about software engineering, always eager to learn, bui
 ## 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,git,github,sqlite" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,mysql,docker,rabbitmq,git,github&size=40" />
 </div>
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React Native, Expo  
-- **Databases:** SQLite  
-- **Tools:** Git, GitHub, VS Code  
-- **Interests:** Mobile Development, Software Engineering, Backend Development
-
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks & Libraries:** React Native, Expo, Express  
+- **Databases:** MySQL, SQLite  
+- **Messaging & Infra:** RabbitMQ, Docker  
+- **Tools:** Git, GitHub, VS Code, Swagger  
+- **Interests:** Backend Development, Mobile Development, Software Engineering
 
 <hr style="border: 1px solid #30363d;">
 
 ## 🚀 Featured Projects
 
-### 📱 Sistema de Denúncias — React Native + SQLite (Offline-First)
+### 📱 Sistema de Denúncias — Fullstack (React Native + Node.js + RabbitMQ)
 
-A mobile application developed with **React Native (Expo)** focused on **offline-first data persistence**, form validations, and clean architecture.
+A fullstack application composed of a **mobile app**, a **secure backend API**, and an **asynchronous messaging system**, focused on clean architecture, scalability, and real-world practices.
 
 **Main highlights:**
-- Offline-first app using **SQLite local storage**
-- Complete **CRUD** (Create, Read, Delete)
-- Real-world **form validations** (CPF, CEP, age, name)
-- Organized project structure
+- Offline-first mobile app using **SQLite**
+- Secure backend API with **JWT authentication**
+- Full **CRUD** for denúncias
+- **RabbitMQ** for asynchronous processing
+- Data validation and normalization
+- **Prisma ORM** with MySQL database
+- API documentation with **Swagger**
+- Dockerized infrastructure
 - Tested on real mobile device via **Expo Go**
 
 🔗 **Repository:**  
