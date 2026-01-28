@@ -23,7 +23,7 @@ I am a student passionate about software engineering, always eager to learn, bui
 ## 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,python,mysql,docker,rabbitmq,git,github&size=40" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,github,sqlite&size=40" />
 </div>
 
 - **Languages:** JavaScript, Python, HTML, CSS  
