@@ -37,7 +37,7 @@ I am a student passionate about software engineering, always eager to learn, bui
 
 ## 🚀 Featured Projects
 
-### 📱 Denúncias System
+## 📱 Denúncias System
 
 Fullstack complaint reporting system built with **React Native + Expo, Node.js, RabbitMQ and MySQL**, featuring offline-first mobile data persistence.
 
