@@ -88,6 +88,10 @@ https://github.com/bryannduart/denuncias-backend
   <a href="mailto:bryan.duarte2516@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://www.youtube.com/@bryannduart" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 <hr style="border: 1px solid #30363d;">
