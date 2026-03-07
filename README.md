@@ -39,13 +39,10 @@ I am a student passionate about software engineering, always eager to learn, bui
 
 ### 📱 Denúncias System
 
-Fullstack complaint reporting system built with **React Native, Node.js, RabbitMQ and MySQL**, featuring offline-first mobile data persistence.
+Fullstack complaint reporting system built with **React Native + Expo, Node.js, RabbitMQ and MySQL**, featuring offline-first mobile data persistence.
 
-📱 Mobile:  
-https://github.com/bryannduart/denuncias-mobile
-
-🌐 Backend:  
-https://github.com/bryannduart/denuncias-backend
+- 📱 [Denúncias Mobile](https://github.com/bryannduart/denuncias-mobile)
+- 🌐 [Denúncias Backend](https://github.com/bryannduart/denuncias-backend)
 
 ---
 
