@@ -37,23 +37,15 @@ I am a student passionate about software engineering, always eager to learn, bui
 
 ## 🚀 Featured Projects
 
-### 📱 Sistema de Denúncias — Fullstack (React Native + Node.js + RabbitMQ)
+### 📱 Denúncias System
 
-A fullstack application composed of a **mobile app**, a **secure backend API**, and an **asynchronous messaging system**, focused on clean architecture, scalability, and real-world practices.
+Fullstack complaint reporting system built with **React Native, Node.js, RabbitMQ and MySQL**, featuring offline-first mobile data persistence.
 
-**Main highlights:**
-- Offline-first mobile app using **SQLite**
-- Secure backend API with **JWT authentication**
-- Full **CRUD** for denúncias
-- **RabbitMQ** for asynchronous processing
-- Data validation and normalization
-- **Prisma ORM** with MySQL database
-- API documentation with **Swagger**
-- Dockerized infrastructure
-- Tested on real mobile device via **Expo Go**
+📱 Mobile:  
+https://github.com/bryannduart/denuncias-mobile
 
-🔗 **Repository:**  
-👉 [denuncias-react-native](https://github.com/bryannduart/denuncias-react-native)
+🌐 Backend:  
+https://github.com/bryannduart/denuncias-backend
 
 ---
 
