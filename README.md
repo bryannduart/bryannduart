@@ -38,17 +38,17 @@ I am a student passionate about software engineering, always eager to learn, bui
 ## 🚀 Featured Projects
 
 ## 📱 Denúncias System
-...
+
 Fullstack complaint reporting system built with **React Native + Expo, Node.js, RabbitMQ and MySQL**, featuring offline-first mobile data persistence.
 
 ### 📱 [Denúncias Mobile](https://github.com/bryannduart/denuncias-mobile)
 
 Mobile application built with React Native + Expo, focused on complaint registration, local persistence with SQLite and backend integration.
-...
+
 ### 🌐 [Denúncias Backend](https://github.com/bryannduart/denuncias-backend)
 
 Backend REST API built with Node.js, Express, Prisma, MySQL and RabbitMQ for authentication, complaint processing and asynchronous messaging.
-...
+---
 ### 📚​ AI-Powered Study Roadmap for Junior Developers
 
 Practical study system designed to guide beginners from zero to their first junior developer role, using **AI as a learning accelerator**. Includes curated resources, structured roadmap, mind map and presentation materials.
