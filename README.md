@@ -49,6 +49,12 @@ Mobile application built with React Native + Expo, focused on complaint registra
 
 Backend REST API built with Node.js, Express, Prisma, MySQL and RabbitMQ for authentication, complaint processing and asynchronous messaging.
 
+### 📚​ AI-Powered Study Roadmap for Junior Developers
+
+Practical study system designed to guide beginners from zero to their first junior developer role, using **AI as a learning accelerator**. Includes curated resources, structured roadmap, mind map and presentation materials.
+
+### 🔗 [Dev Junior Roadmap with AI](https://github.com/bryannduart/dev-junior-roadmap-ai)
+
 ---
 
 *More projects coming soon — stay tuned!*
