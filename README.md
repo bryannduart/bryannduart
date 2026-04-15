@@ -65,7 +65,7 @@ Practical study system designed to guide beginners from zero to their first juni
 
 ## 🎓 Education & Certifications
 
-- 🎓 **BSc in Software Engineering — [University of Vassouras] (in progress)**  
+- 🎓 **BSc in Software Engineering — Universidade Severino Sombra (In Progress)**  
 
 <hr style="border: 1px solid #30363d;">
 
