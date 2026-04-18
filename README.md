@@ -31,7 +31,7 @@ I am a student passionate about software engineering, always eager to learn, bui
 - **Databases:** MySQL, SQLite  
 - **Messaging & Infra:** RabbitMQ, Docker  
 - **Tools:** Git, GitHub, VS Code, Swagger  
-- **Interests:** Backend Development, Mobile Development, Software Engineering
+- **Interests:** Backend Development, Mobile Development, Software Engineering, Artificial Intelligence
 
 <hr style="border: 1px solid #30363d;">
 
@@ -56,6 +56,14 @@ Backend REST API built with Node.js, Express, Prisma, MySQL and RabbitMQ for aut
 Practical study system designed to guide beginners from zero to their first junior developer role, using **AI as a learning accelerator**. Includes curated resources, structured roadmap, mind map and presentation materials.
 
 ### 🔗 [Dev Junior Roadmap with AI](https://github.com/bryannduart/dev-junior-roadmap-ai)
+
+---
+
+### 🤖 AI Voice Assistant for Developers
+
+Smart voice assistant focused on programming, learning and developer growth, built with **Python, FastAPI, JavaScript and OpenAI APIs**. Supports speech-to-text, AI-generated responses and text-to-speech in a complete fullstack experience.
+
+### 🎙️ [DevVoice AI](https://github.com/bryannduart/devvoice-ai)
 
 ---
 
