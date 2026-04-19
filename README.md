@@ -29,7 +29,7 @@ I am a student passionate about software engineering, always eager to learn, bui
 - **Languages:** JavaScript, Python, HTML, CSS  
 - **Frameworks & Libraries:** React Native, Expo, Express  
 - **Databases:** MySQL, SQLite  
-- **Messaging & Infra:** RabbitMQ, Docker  
+- **Messaging & Infra:** RabbitMQ, Docker 
 - **Tools:** Git, GitHub, VS Code, Swagger  
 - **Interests:** Backend Development, Mobile Development, Software Engineering, Artificial Intelligence
 
@@ -37,47 +37,21 @@ I am a student passionate about software engineering, always eager to learn, bui
 
 ## 🚀 Featured Projects
 
-## 📱 Denúncias System
+### [Denúncias System](https://github.com/bryannduart?tab=repositories&q=denuncias) ( [Mobile](https://github.com/bryannduart/denuncias-mobile) • [Backend](https://github.com/bryannduart/denuncias-backend))
 
-Fullstack complaint reporting system built with **React Native + Expo, Node.js, RabbitMQ and MySQL**, featuring offline-first mobile data persistence.
+Fullstack complaint reporting system built with **React Native + Expo, Node.js, Express, Prisma, RabbitMQ and MySQL**, featuring complaint registration, offline-first persistence, secure backend APIs and asynchronous processing.
 
-### 📱 [Denúncias Mobile](https://github.com/bryannduart/denuncias-mobile)
-
-Mobile application built with React Native + Expo, focused on complaint registration, local persistence with SQLite and backend integration.
-
-### 🌐 [Denúncias Backend](https://github.com/bryannduart/denuncias-backend)
-
-Backend REST API built with Node.js, Express, Prisma, MySQL and RabbitMQ for authentication, complaint processing and asynchronous messaging.
-
----
-
-### 📚​ AI-Powered Study Roadmap for Junior Developers
-
-Practical study system designed to guide beginners from zero to their first junior developer role, using **AI as a learning accelerator**. Includes curated resources, structured roadmap, mind map and presentation materials.
-
-### 🔗 [Dev Junior Roadmap with AI](https://github.com/bryannduart/dev-junior-roadmap-ai)
-
----
-
-### 🤖 AI Voice Assistant for Developers
+### [DevVoice AI](https://github.com/bryannduart/devvoice-ai)
 
 Smart voice assistant focused on programming, learning and developer growth, built with **Python, FastAPI, JavaScript and OpenAI APIs**. Supports speech-to-text, AI-generated responses and text-to-speech in a complete fullstack experience.
 
-### 🎙️ [DevVoice AI](https://github.com/bryannduart/devvoice-ai)
-
----
-
-## 🐷 Coink AI
+### [Coink AI](https://github.com/bryannduart/finance-assistant-ai)
 
 Intelligent personal finance assistant built with **Python, Streamlit, Ollama and Pandas**, created to help users track expenses, monitor monthly budgets and receive AI-powered financial guidance through a practical and interactive interface.
 
-### 💰 [Coink AI](https://github.com/bryannduart/finance-assistant-ai)
+### [More Projects](https://github.com/bryannduart?tab=repositories)
 
-Personal finance web application with dashboard metrics, transaction history, smart chat assistant and local AI integration using Ollama.
-
----
-
-*More projects coming soon — stay tuned!*
+Explore all my repositories, experiments, development tools and software projects.
 
 <hr style="border: 1px solid #30363d;">
 
@@ -87,7 +61,7 @@ Personal finance web application with dashboard metrics, transaction history, sm
 - 🏅 **Certifications:**
 - Bradesco - GenAI & Dados | DIO  
   52h Bootcamp focused on Generative AI, Python, SQL, Power BI and Data Fundamentals.  
-  🔗 [View Credential](https://www.dio.me/certificate/2BPEZKCE/share)
+  [![View Credential](https://img.shields.io/badge/View-Credential-blue?style=flat-square)](https://www.dio.me/certificate/2BPEZKCE/share)
 
 <hr style="border: 1px solid #30363d;">
 
