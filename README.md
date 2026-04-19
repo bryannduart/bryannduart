@@ -83,7 +83,11 @@ Personal finance web application with dashboard metrics, transaction history, sm
 
 ## 🎓 Education & Certifications
 
-- 🎓 **BSc in Software Engineering — Universidade Severino Sombra (In Progress)**  
+- 🎓 **BSc in Software Engineering — Universidade Severino Sombra (In Progress)** 
+- 🏅 **Certifications:**
+- Bradesco - GenAI & Dados | DIO  
+  52h Bootcamp focused on Generative AI, Python, SQL, Power BI and Data Fundamentals.  
+  🔗 [View Credential](https://www.dio.me/certificate/2BPEZKCE/share)
 
 <hr style="border: 1px solid #30363d;">
 
