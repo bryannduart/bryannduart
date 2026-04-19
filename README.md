@@ -67,6 +67,16 @@ Smart voice assistant focused on programming, learning and developer growth, bui
 
 ---
 
+## 🐷 Coink AI
+
+Intelligent personal finance assistant built with **Python, Streamlit, Ollama and Pandas**, created to help users track expenses, monitor monthly budgets and receive AI-powered financial guidance through a practical and interactive interface.
+
+### 💰 [Coink AI](https://github.com/bryannduart/finance-assistant-ai)
+
+Personal finance web application with dashboard metrics, transaction history, smart chat assistant and local AI integration using Ollama.
+
+---
+
 *More projects coming soon — stay tuned!*
 
 <hr style="border: 1px solid #30363d;">
