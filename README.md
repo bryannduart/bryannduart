@@ -41,13 +41,15 @@ I am a student passionate about software engineering, always eager to learn, bui
 
 Fullstack complaint reporting system built with **React Native + Expo, Node.js, Express, Prisma, RabbitMQ and MySQL**, featuring complaint registration, offline-first persistence, secure backend APIs and asynchronous processing.
 
+### [LumiEduca](https://github.com/LumiEduca/LumiEduca)
+
+Gamified educational platform focused on improving student engagement through **technology, gamification and artificial intelligence**, featuring learning paths, progress tracking and AI-powered assistance.
+
+**Role:** Technical Lead & Project Manager
+
 ### [DevVoice AI](https://github.com/bryannduart/devvoice-ai)
 
 Smart voice assistant focused on programming, learning and developer growth, built with **Python, FastAPI, JavaScript and OpenAI APIs**. Supports speech-to-text, AI-generated responses and text-to-speech in a complete fullstack experience.
-
-### [Coink AI](https://github.com/bryannduart/finance-assistant-ai)
-
-Intelligent personal finance assistant built with **Python, Streamlit, Ollama and Pandas**, created to help users track expenses, monitor monthly budgets and receive AI-powered financial guidance through a practical and interactive interface.
 
 ### [More Projects](https://github.com/bryannduart?tab=repositories)
 
