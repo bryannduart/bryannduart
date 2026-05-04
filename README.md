@@ -45,7 +45,7 @@ Fullstack complaint reporting system built with **React Native + Expo, Node.js, 
 
 Gamified educational platform focused on improving student engagement through **technology, gamification and artificial intelligence**, featuring learning paths, progress tracking and AI-powered assistance.
 
-**Role:** Technical Lead & Project Manager
+**Role:** Project Manager & Software Architect
 
 ### [DevVoice AI](https://github.com/bryannduart/devvoice-ai)
 
