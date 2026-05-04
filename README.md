@@ -27,10 +27,10 @@ I am a student passionate about software engineering, always eager to learn, bui
 </div>
 
 - **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks & Libraries:** React Native, Expo, Express  
+- **Frameworks & Libraries:** React, React Native, Expo, Express  
 - **Databases:** MySQL, SQLite  
 - **Messaging & Infra:** RabbitMQ, Docker 
-- **Tools:** Git, GitHub, VS Code, Swagger  
+- **Tools:** Git, GitHub, VS Code, Swagger, Vercel  
 - **Interests:** Backend Development, Mobile Development, Software Engineering, Artificial Intelligence
 
 <hr style="border: 1px solid #30363d;">
